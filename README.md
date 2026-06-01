@@ -59,10 +59,8 @@ I am a technology-driven problem solver with a strong passion for software devel
 ### 📊 GitHub Activity & Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ofc-its-phyla&show_icons=true&theme=radial&hide_border=true" alt="Philemon's GitHub Stats" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ofc-its-phyla&theme=radial&hide_border=true" alt="Philemon's GitHub Streak" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ofc-its-phyla&layout=compact&theme=radial&hide_border=true" alt="Top Languages" height="150" />
-</p>
+ 
 
 ---
 
