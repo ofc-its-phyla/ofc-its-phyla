@@ -54,6 +54,8 @@ I am a technology-driven problem solver with a strong passion for software devel
 
 ---
 
+---
+
 ### 📊 GitHub Activity & Stats
 
 <p align="left">
