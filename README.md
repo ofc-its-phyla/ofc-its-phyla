@@ -66,7 +66,4 @@ I'm always open to discussing new projects, collaborative software development, 
 
 <br />
 
-<p align="center">
-  <i>"Built with code, curiosity, and late-night debugging."</i><br>
-  🔴 ⚪ <b>COYG</b>
-</p>
+
