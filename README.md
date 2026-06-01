@@ -34,7 +34,7 @@ I am a technology-driven problem solver with a strong passion for software devel
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-757575?style=for-the-badge&logo=KaliLinux&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black) ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ⚡ **Other Proficiencies**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=%23ffdd54) `Video Editing` `Problem Solving` `System Design`
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=%23ffdd54) 
 
 ---
 
