@@ -66,4 +66,4 @@ I'm always open to discussing new projects, collaborative software development, 
 
 <br />
 
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=philemon-cpu&theme=radial&hide_border=true)](https://git.io/streak-stats)
