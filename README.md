@@ -1,5 +1,6 @@
-# Hi there, I'm Philemon Daniel 👋
+# Hi there! I'm Philemon Daniel 👋
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&width=435&lines=Full-Stack+Developer;Cybersecurity+Enthusiast;Late-Night+Debugger;Building+Secure+Solutions" alt="Typing SVG" />
 Full-Stack Developer • Cybersecurity Enthusiast • Tech Creator
 
 Building secure, creative, and impactful digital solutions with code, curiosity, and a focus on robust technical foundations.
