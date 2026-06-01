@@ -7,7 +7,7 @@
 Building secure, creative, and impactful digital solutions with code, curiosity, and a focus on robust technical foundations.
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=philemon-cpu&label=Profile%20Views&color=3ECF8E&style=flat-square" alt="philemon-cpu" />
+  <img src="https://komarev.com/ghpvc/?username=ofc-its-phyla&label=Profile%20Views&color=3ECF8E&style=flat-square" alt="ofc-its-phyla" />
 </p>
 
 ---
@@ -34,7 +34,7 @@ I am a technology-driven problem solver with a strong passion for software devel
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-757575?style=for-the-badge&logo=KaliLinux&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black) ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ⚡ **Other Proficiencies**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) `Video Editing` `Problem Solving` `System Design`
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=%23ffdd54) `Video Editing` `Problem Solving` `System Design`
 
 ---
 
@@ -54,6 +54,14 @@ I am a technology-driven problem solver with a strong passion for software devel
 
 ---
 
+### 📊 GitHub Activity & Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ofc-its-phyla&show_icons=true&theme=radial&hide_border=true" alt="Philemon's GitHub Stats" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ofc-its-phyla&theme=radial&hide_border=true" alt="Philemon's GitHub Streak" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ofc-its-phyla&layout=compact&theme=radial&hide_border=true" alt="Top Languages" height="150" />
+</p>
+
 ---
 
 ### 📬 Let's Connect
@@ -66,4 +74,7 @@ I'm always open to discussing new projects, collaborative software development, 
 
 <br />
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=philemon-cpu&theme=radial&hide_border=true)](https://git.io/streak-stats)
+<p align="center">
+  <i>"Built with code, curiosity, and late-night debugging."</i><br>
+  🔴 ⚪ <b>COYG</b>
+</p>
