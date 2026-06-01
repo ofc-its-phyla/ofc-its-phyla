@@ -34,13 +34,7 @@ I am a technology-driven problem solver with a strong passion for software devel
 * **Impact:** Focuses on educating communities about online security threats, safe browsing practices, and local financial scam prevention (such as CBE impersonation awareness).
 * **Scope:** Educational resources, ethical hacking awareness, and digital safety guidelines.
 
-#### 🗺️ Ethio Tourist
-*A robust, full-stack tourism booking application.*
-* Built with a dynamic React frontend, secure token-based user authentication, and robust destination management capabilities.
 
-#### 🏥 Karachi Healthcare
-*A modern clinic management and booking platform.*
-* Features a seamless appointment scheduling architecture fully integrated with a scalable Supabase database backend.
 
 ---
 
