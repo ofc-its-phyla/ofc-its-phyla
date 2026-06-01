@@ -51,12 +51,6 @@ I am a technology-driven problem solver with a strong passion for software devel
 
 ---
 
-### 📊 GitHub Activity & Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=philemon-cpu&show_icons=true&theme=radial&hide_border=true" alt="Philemon's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=philemon-cpu&layout=compact&theme=radial&hide_border=true" alt="Top Languages" height="150" />
-</p>
 
 ---
 
@@ -69,7 +63,3 @@ I'm always open to discussing new projects, collaborative software development, 
 
 <br />
 
-<p align="center">
-  <i>"Built with code, curiosity, and late-night debugging."</i><br>
-  🔴 ⚪ <b>COYG</b>
-</p>
