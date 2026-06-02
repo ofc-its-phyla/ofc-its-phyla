@@ -68,5 +68,6 @@ I'm always open to discussing new projects, collaborative software development, 
 
 [![Email](https://img.shields.io/badge/Email-philemondan12%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:philemondan12@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Philemon%20Daniel-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/philemon-daniel)
-[![Telegram](https://img.shields.io/badge/Telegram-PhilemonDanielCommunity-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/PhilemonDanielCommunity)
-<br />
+<a href="https://t.me/PhilemonDanielCommunity" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Telegram-PhilemonDanielCommunity-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Community" />
+</a><br />
