@@ -49,16 +49,9 @@ I am a technology-driven problem solver with a strong passion for software devel
 
 ### 🏅 Professional Milestones
 
-* **2026** • **Artificial Intelligence Fundamentals** (*IBM / Udacity*)  
-  Mastery of core AI concepts including machine learning, neural networks, and deep learning principles.
-
-* **2025** • **4x Award Recipient & Mobile Development Certifications**
   * 📱 **Android Developer Fundamentals** (*Google / Udacity*) — Completed rigorous training with outstanding performance in mobile development architectures.
   * 🥇 **1st Place — Regional Science Fair** (*Gibson School System · ICRR*) — Awarded top spot for outstanding technological innovation and scientific application.
   * 🥈 **2nd Place — Lemikura ICT Science Fair** (*Lemikura Sub-City · ICT Program*) — Recognized for excellence in regional technology development and digital innovation.
-  * 🏆 **[Insert 3rd Award/Cert Title Here]** (*[Organization Name]*) — [Brief 1-sentence description of your accomplishment].
-  * 🏆 **[Insert 4th Award/Cert Title Here]** (*[Organization Name]*) — [Brief 1-sentence description of your accomplishment].
-
 ---
 
 ### 📊 GitHub Activity & Stats
