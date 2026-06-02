@@ -47,10 +47,25 @@ I am a technology-driven problem solver with a strong passion for software devel
 
 ---
 
-### 🏅 Professional Milestones
+### 🏅 Professional Milestones & Achievements
 
-* **2026** • Artificial Intelligence Fundamentals *(Machine Learning & Neural Networks)*
-* **2025** • Android Developer Fundamentals
+* **2026** • **Artificial Intelligence Fundamentals** *(Machine Learning & Neural Networks)*
+    <br>
+    <a href="https://uehglalwgzzifwxpbzvx.supabase.co/storage/v1/object/public/jk/AI%20Fundamentals.jpeg" target="_blank">
+      <img src="https://uehglalwgzzifwxpbzvx.supabase.co/storage/v1/object/public/jk/AI%20Fundamentals.jpeg" alt="AI Fundamentals Certificate" width="350" style="border-radius: 8px; margin-top: 5px;"/>
+    </a>
+
+* **2026** • **1st Place Winner — Science & Tech Fair**
+    <br>
+    <a href="https://uehglalwgzzifwxpbzvx.supabase.co/storage/v1/object/public/jk/1st.PNG" target="_blank">
+      <img src="https://uehglalwgzzifwxpbzvx.supabase.co/storage/v1/object/public/jk/1st.PNG" alt="1st Place Award" width="350" style="border-radius: 8px; margin-top: 5px;"/>
+    </a>
+
+* **2025** • **2nd Place Winner — Innovation Challenge** *(and Android Developer Fundamentals)*
+    <br>
+    <a href="https://uehglalwgzzifwxpbzvx.supabase.co/storage/v1/object/public/jk/2nd%20place.PNG" target="_blank">
+      <img src="https://uehglalwgzzifwxpbzvx.supabase.co/storage/v1/object/public/jk/2nd%20place.PNG" alt="2nd Place Award" width="350" style="border-radius: 8px; margin-top: 5px;"/>
+    </a>
 
 ---
 
