@@ -75,7 +75,10 @@ I am a technology-driven problem solver with a strong passion for software devel
 ### 📊 GitHub Activity & Stats
 
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ofc-its-phyla&theme=github_dark" alt="GitHub Profile Summary" />
+  <img
+    src="https://streak-stats.demolab.com?user=ofc-its-phyla&v=1"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
