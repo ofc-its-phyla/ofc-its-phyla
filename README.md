@@ -49,18 +49,18 @@ I am a technology-driven problem solver with a strong passion for software devel
 
 ### 🏅 Professional Milestones
 
-  * 📱 **Android Developer Fundamentals** (*Google / Udacity*) — Completed rigorous training with outstanding performance in mobile development architectures.
-  * 🥇 **1st Place — Regional Science Fair** (*Gibson School System · ICRR*) — Awarded top spot for outstanding technological innovation and scientific application.
-  * 🥈 **2nd Place — Lemikura ICT Science Fair** (*Lemikura Sub-City · ICT Program*) — Recognized for excellence in regional technology development and digital innovation.
+* 📱 **Android Developer Fundamentals** (*Google / Udacity*) — Completed rigorous training with outstanding performance in mobile development architectures.
+* 🥇 **1st Place — Regional Science Fair** (*Gibson School System · ICRR*) — Awarded top spot for outstanding technological innovation and scientific application.
+* 🥈 **2nd Place — Lemikura ICT Science Fair** (*Lemikura Sub-City · ICT Program*) — Recognized for excellence in regional technology development and digital innovation.
+
 ---
 
 ### 📊 GitHub Activity & Stats
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ofc-its-phyla&background=000000&ring=3ECF8E&fire=3ECF8E&currStreakNum=ffffff&currStreakLabel=3ECF8E&sideNums=ffffff&sideLabels=ffffff&dates=aaaaaa&hide_border=true" alt="Philemon's GitHub Streak" height="150" />
+  <!-- Added &v=2.0 at the end to bypass GitHub's Camo image cache and force a live update -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ofc-its-phyla&background=000000&ring=3ECF8E&fire=3ECF8E&currStreakNum=ffffff&currStreakLabel=3ECF8E&sideNums=ffffff&sideLabels=ffffff&dates=aaaaaa&hide_border=true&v=2.0" alt="Philemon's GitHub Streak" height="150" />
 </p>
-
----
 
 ---
 
