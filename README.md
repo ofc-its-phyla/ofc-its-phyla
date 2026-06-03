@@ -72,11 +72,10 @@ I am a technology-driven problem solver with a strong passion for software devel
 * 🥈 **2nd Place — Lemikura ICT Science Fair** (*Lemikura Sub-City · ICT Program*) — Recognized for excellence in regional technology development and digital innovation.
 
 ---
-
 ### 📊 GitHub Activity & Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ofc-its-phyla&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ofc-its-phyla&theme=github_dark" alt="GitHub Profile Summary" />
 </p>
 
 ---
