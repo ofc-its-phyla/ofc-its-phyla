@@ -58,10 +58,8 @@ I am a technology-driven problem solver with a strong passion for software devel
 ### 📊 GitHub Activity & Stats
 
 <p align="left">
-  <!-- Added &v=2.0 at the end to bypass GitHub's Camo image cache and force a live update -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ofc-its-phyla&background=000000&ring=3ECF8E&fire=3ECF8E&currStreakNum=ffffff&currStreakLabel=3ECF8E&sideNums=ffffff&sideLabels=ffffff&dates=aaaaaa&hide_border=true&v=2.0" alt="Philemon's GitHub Streak" height="150" />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=ofc-its-phyla&background=000000&ring=3ECF8E&fire=3ECF8E&currStreakNum=ffffff&currStreakLabel=3ECF8E&sideNums=ffffff&sideLabels=ffffff&dates=aaaaaa&hide_border=true&v=3.0" alt="Philemon's GitHub Streak" height="150" />
 </p>
-
 ---
 
 ### 📬 Let's Connect
