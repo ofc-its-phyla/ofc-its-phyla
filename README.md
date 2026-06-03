@@ -1,4 +1,3 @@
-```markdown
 # Hi there! I'm Philemon Daniel 👋
 
 <p align="left">
