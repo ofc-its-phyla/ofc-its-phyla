@@ -59,7 +59,7 @@ I am a technology-driven problem solver with a strong passion for software devel
 
 <p align="left">
   <img src="https://github-readme-streak-stats.vercel.app/?user=ofc-its-phyla&background=000000&ring=3ECF8E&fire=3ECF8E&currStreakNum=ffffff&currStreakLabel=3ECF8E&sideNums=ffffff&sideLabels=ffffff&dates=aaaaaa&hide_border=true&v=3.0" alt="Philemon's GitHub Streak" height="150" />
-</p>
+
 ---
 
 ### 📬 Let's Connect
