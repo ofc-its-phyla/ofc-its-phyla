@@ -78,7 +78,6 @@ I am a technology-driven problem solver with a strong passion for software devel
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ofc-its-phyla&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
 </p>
-```
 
 ---
 
