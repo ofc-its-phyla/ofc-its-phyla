@@ -76,8 +76,9 @@ I am a technology-driven problem solver with a strong passion for software devel
 ### 📊 GitHub Activity & Stats
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=ofc-its-phyla&background=000000&ring=3ECF8E&fire=3ECF8E&currStreakNum=ffffff&currStreakLabel=3ECF8E&sideNums=ffffff&sideLabels=ffffff&dates=aaaaaa&hide_border=true" alt="Philemon's GitHub Streak" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ofc-its-phyla&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
 </p>
+```
 
 ---
 
