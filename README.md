@@ -94,7 +94,6 @@ A comprehensive cybersecurity awareness and digital safety platform engineered t
 ## 📊 GitHub Activity & Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ofc-its-phyla&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=3ECF8E&icon_color=3ECF8E&text_color=c9d1d9" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ofc-its-phyla&theme=dark&hide_border=true&background=0D1117&fire=3ECF8E&ring=3ECF8E&currStreakLabel=3ECF8E" height="150" alt="GitHub Streak" />
 </p>
 
