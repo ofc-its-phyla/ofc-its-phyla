@@ -16,10 +16,11 @@ Building secure, creative, and impactful digital solutions with code, curiosity,
 
 I am a technology-driven problem solver passionate about software development, cybersecurity, and modern digital technology. Based in **Addis Ababa, Ethiopia**, I enjoy building practical solutions, exploring how systems work behind the scenes, and continuously improving my technical skills.
 
-- 🛠️ **Full-Stack Web Developer** specialized in secure ecosystems
-- 🔐 **Cybersecurity Enthusiast** focused on web app penetration testing & digital hygiene
-- 🎓 **Student & Lifelong Learner** exploring system design scales
-- 🌱 **Currently learning:** Advanced software architecture, cloud technologies, and container orchestration
+- 🛠️ Full-Stack Web Developer
+- 🔐 Cybersecurity Enthusiast
+- 🎓 Student & Lifelong Learner
+- 🚀 Building impactful digital solutions
+- 🌱 Currently learning advanced software architecture and cloud technologies
 
 ---
 
@@ -58,7 +59,7 @@ I am a technology-driven problem solver passionate about software development, c
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
@@ -73,32 +74,27 @@ I am a technology-driven problem solver passionate about software development, c
 ## 🚀 Featured Projects
 
 ### 🛡️ CyberSafe Ethiopia
-> A comprehensive localized cybersecurity awareness and digital safety platform engineered to help Ethiopian internet users securely navigate the web and defend against localized cyber threats.
 
-* **Tech Stack:** React, TailwindCSS, Node.js, Express, PostgreSQL
-* **Core Engineering:** Built an active security awareness pipeline integrating real-time phishing/scam tracking feeds, localized security education hubs, and an interactive quiz assessment logic.
-* **Security Controls:** Enforced secure authentication architecture via structured HTTP-only JWT handling and robust input sanitization vectors.
+A cybersecurity awareness and digital safety platform designed to help Ethiopian internet users stay safe online.
+
+- Digital Security Education
+- Scam Awareness
+- Safe Browsing Practices
+- Cybersecurity Awareness Resources
 
 ---
 
 ## 🏅 Professional Milestones
 
-- 📱 **Android Developer Fundamentals** — Google / Udacity
-- 🥇 **1st Place** — Regional Science Fair
-- 🥈 **2nd Place** — Lemikura ICT Science Fair
+- 📱 Android Developer Fundamentals (Google / Udacity)
+- 🥇 1st Place — Regional Science Fair
+- 🥈 2nd Place — Lemikura ICT Science Fair
 
 ---
 
 ## 📊 GitHub Activity & Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ofc-its-phyla&show_icons=true&theme=tokyonight&hide_border=true&icon_color=3ECF8E&title_color=3ECF8E" alt="Phyla's GitHub Stats" height="180" />
-  <img src="https://streak-stats.demolab.com/?user=ofc-its-phyla&theme=tokyonight&hide_border=true&stroke=3ECF8E&ring=3ECF8E&fire=3ECF8E" alt="GitHub Streak Stats" height="180" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ofc-its-phyla&layout=compact&theme=tokyonight&hide_border=true&title_color=3ECF8E" alt="Top Languages" height="150" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com/?user=ofc-its-phyla&theme=dark&hide_border=true)
 
 ---
 
