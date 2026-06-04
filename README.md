@@ -94,7 +94,9 @@ A cybersecurity awareness and digital safety platform designed to help Ethiopian
 
 ## 📊 GitHub Activity & Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ofc-its-phyla&show_icons=true&theme=dark&hide_border=true&include_all_commits=true)
+<p align="left">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ofc-its-phyla&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
+</p>
 
 ---
 
