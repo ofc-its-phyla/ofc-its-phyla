@@ -1,133 +1,113 @@
-# Hi there! I'm Philemon Daniel 👋
+<h1 align="center">Hi 👋, I'm Philemon Daniel</h1>
+
+<h3 align="center">
+Full-Stack Developer • Cybersecurity Enthusiast • Tech Creator
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3ECF8E&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Cybersecurity+Enthusiast;Tech+Creator;Late-Night+Debugger" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=3ECF8E&center=true&vCenter=true&width=500&lines=Building+Secure+Digital+Solutions;Full-Stack+Developer;Cybersecurity+Enthusiast;Always+Learning" />
 </p>
 
 <p align="center">
-  Building secure, creative, and impactful digital solutions with code, curiosity, and strong technical foundations.
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ofc-its-phyla&label=Profile%20Views&color=3ECF8E&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ofc-its-phyla&label=Profile+Views&color=3ECF8E&style=flat" />
 </p>
 
 ---
 
-## 💻 About Me
+## 🚀 About Me
 
-I am a technology-driven problem solver passionate about software development, cybersecurity, and modern digital technology. Based in **Addis Ababa, Ethiopia**, I enjoy building practical solutions, exploring how systems work behind the scenes, and continuously improving my technical skills.
+```yaml
+Name: Philemon Daniel
+Location: Addis Ababa, Ethiopia
+Role: Full-Stack Developer
+Focus: Cybersecurity & Secure Software
+Learning: Cloud Architecture & DevOps
+```
 
-- 🛠️ Full-Stack Web Developer
-- 🔐 Cybersecurity Enthusiast
-- 🎓 Student & Lifelong Learner
-- 🚀 Building impactful digital solutions
-- 🌱 Currently learning Advanced Software Architecture & Cloud Technologies
-
----
-
-## 🎯 Current Focus
-
-- Building secure web applications
-- Learning cloud technologies
-- Exploring cybersecurity automation
-- Creating impactful digital solutions
-- Contributing to open source
+- 🔐 Passionate about Cybersecurity
+- 💻 Building Full-Stack Applications
+- 🚀 Creating practical digital solutions
+- 🌱 Always learning new technologies
 
 ---
 
-## 🛠️ Technical Arsenal
+## 🛠 Tech Stack
 
-### ⚡ Backend & Databases
+### Languages
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Python](https://skillicons.dev/icons?i=python)
+![Java](https://skillicons.dev/icons?i=java)
+![js](https://skillicons.dev/icons?i=javascript)
+![ts](https://skillicons.dev/icons?i=typescript)
 
-### ⚡ Languages
+### Frontend
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://skillicons.dev/icons?i=react)
+![NextJS](https://skillicons.dev/icons?i=nextjs)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
+![Vite](https://skillicons.dev/icons?i=vite)
 
-### ⚡ Frontend & UI
+### Backend
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![NodeJS](https://skillicons.dev/icons?i=nodejs)
+![Spring](https://skillicons.dev/icons?i=spring)
+![Postgres](https://skillicons.dev/icons?i=postgres)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![Firebase](https://skillicons.dev/icons?i=firebase)
 
-### ⚡ Security, DevOps & Tools
+### DevOps & Security
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://skillicons.dev/icons?i=linux)
+![Docker](https://skillicons.dev/icons?i=docker)
+![Git](https://skillicons.dev/icons?i=git)
+![Github](https://skillicons.dev/icons?i=github)
+![Bash](https://skillicons.dev/icons?i=bash)
 
 ---
 
-## 🚀 Featured Project
+## 🛡 Featured Project
 
-### 🛡️ CyberSafe Ethiopia
+### CyberSafe Ethiopia
 
-A cybersecurity awareness and digital safety platform designed to help Ethiopian internet users stay safe online.
+A cybersecurity awareness platform helping Ethiopian internet users stay safe online.
 
 - Digital Security Education
 - Scam Awareness
 - Safe Browsing Practices
 - Cybersecurity Resources
-- Community Awareness Campaigns
 
 ---
 
-## 🏅 Professional Milestones
+## 📊 GitHub Stats
 
-- 📱 Android Developer Fundamentals (Google / Udacity)
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ofc-its-phyla&show_icons=true&theme=tokyonight&hide_border=true" />
+  
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ofc-its-phyla&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 Achievements
+
 - 🥇 1st Place — Regional Science Fair
 - 🥈 2nd Place — Lemikura ICT Science Fair
+- 📱 Android Developer Fundamentals (Google / Udacity)
 
 ---
 
-## 📊 GitHub Activity & Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ofc-its-phyla&show_icons=true&theme=github_dark&hide_border=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ofc-its-phyla&theme=github-dark-blue&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ofc-its-phyla&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
-
----
-
-## 📬 Let's Connect
+## 📫 Connect With Me
 
 <p align="center">
   <a href="mailto:contact.philemon.daniel@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-ea4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 
   <a href="https://linkedin.com/in/philemon-daniel">
-    <img src="https://img.shields.io/badge/LinkedIn-Philemon_Daniel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="https://t.me/PhilemonDanielCommunity">
-    <img src="https://img.shields.io/badge/Telegram-Community-0088CC?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
 
----
-
 <p align="center">
-  <i>"Code with purpose. Build with impact. Learn without limits."</i>
+⭐ Building secure technology with purpose.
 </p>
