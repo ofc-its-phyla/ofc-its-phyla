@@ -7,24 +7,26 @@
 Building secure, creative, and impactful digital solutions with code, curiosity, and a focus on robust technical foundations.
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ofc-its-phyla&label=Profile%20Views&color=3ECF8E&style=flat-square" alt="ofc-its-phyla" />
+  <img src="https://komarev.com/ghpvc/?username=ofc-its-phyla&label=Profile%20Views&color=3ECF8E&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
 
-### 💻 About Me
+## 💻 About Me
 
-I am a technology-driven problem solver with a strong passion for software development, system design, and modern digital technology. Based in **Addis Ababa, Ethiopia**, I focus on understanding how digital systems work behind the scenes—from application logic and performance optimization to the structure of the networks that support them.
+I am a technology-driven problem solver passionate about software development, cybersecurity, and modern digital technology. Based in **Addis Ababa, Ethiopia**, I enjoy building practical solutions, exploring how systems work behind the scenes, and continuously improving my technical skills.
 
-* 🛠️ **What I Do:** Full-stack web development, ethical hacking exploration, and creating tech-related content.
-* 🎓 **Education:** Currently balancing academic milestones at Gibson School System with deep dives into advanced software engineering concepts.
-* 🎯 **My Goal:** To build useful, reliable, and secure technology that leaves a positive impact on my community.
+- 🛠️ Full-Stack Web Developer
+- 🔐 Cybersecurity Enthusiast
+- 🎓 Student & Lifelong Learner
+- 🚀 Building impactful digital solutions
+- 🌱 Currently learning advanced software architecture and cloud technologies
 
 ---
 
-### 🛠️ Technical Arsenal
+## 🛠️ Technical Arsenal
 
-⚡ **Backend & Cloud Frontend & Design**
+### ⚡ Backend & Databases
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
@@ -34,21 +36,24 @@ I am a technology-driven problem solver with a strong passion for software devel
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=a370f7)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
+
+### ⚡ Languages
+
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+### ⚡ Frontend & UI
+
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-⚡ **Security, DevOps & Scripting**
+### ⚡ Security, DevOps & Scripting
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -58,7 +63,7 @@ I am a technology-driven problem solver with a strong passion for software devel
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-⚡ **Tools & Productivity**
+### ⚡ Tools & Productivity
 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
@@ -66,45 +71,53 @@ I am a technology-driven problem solver with a strong passion for software devel
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
-#### 🛡️ CyberSafe Ethiopia
+### 🛡️ CyberSafe Ethiopia
 
-*A comprehensive cybersecurity awareness and digital safety platform designed for the Ethiopian context.*
+A cybersecurity awareness and digital safety platform designed to help Ethiopian internet users stay safe online.
 
-* **Impact:** Focuses on educating communities about online security threats, safe browsing practices, and local financial scam prevention.
-* **Scope:** Educational resources, ethical hacking awareness, and digital safety guidelines.
-
----
-
-### 🏅 Professional Milestones
-
-* 📱 **Android Developer Fundamentals** (*Google / Udacity*)
-* 🥇 **1st Place — Regional Science Fair** (*Gibson School System · ICRR*)
-* 🥈 **2nd Place — Lemikura ICT Science Fair** (*Lemikura Sub-City · ICT Program*)
+- Digital Security Education
+- Scam Awareness
+- Safe Browsing Practices
+- Cybersecurity Awareness Resources
 
 ---
 
-### 📊 GitHub Activity & Stats
+## 🏅 Professional Milestones
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ofc-its-phyla&theme=dark&hide_border=true)](https://git.io/streak-stats)
+- 📱 Android Developer Fundamentals (Google / Udacity)
+- 🥇 1st Place — Regional Science Fair
+- 🥈 2nd Place — Lemikura ICT Science Fair
 
 ---
 
-### 📬 Let's Connect
+## 📊 GitHub Activity & Stats
 
-I'm always open to discussing new projects, collaborative software development, or creative technical ideas.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ofc-its-phyla&show_icons=true&theme=dark&hide_border=true" height="170" />
+  <img src="https://streak-stats.demolab.com?user=ofc-its-phyla&theme=dark&hide_border=true" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ofc-its-phyla&layout=compact&theme=dark&hide_border=true" />
+</p>
+
+---
+
+## 📬 Let's Connect
 
 <a href="mailto:contact.philemon.daniel@gmail.com">
-  <img src="https://img.shields.io/badge/Email-contact.philemon.daniel%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-Contact_Me-ea4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <a href="https://linkedin.com/in/philemon-daniel">
-  <img src="https://img.shields.io/badge/LinkedIn-Philemon%20Daniel-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-Philemon_Daniel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://t.me/PhilemonDanielCommunity">
-  <img src="https://img.shields.io/badge/Telegram-PhilemonDanielCommunity-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  <img src="https://img.shields.io/badge/Telegram-Community-0088CC?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 
-<br />
+---
+
