@@ -94,7 +94,7 @@ A cybersecurity awareness and digital safety platform designed to help Ethiopian
 
 ## 📊 GitHub Activity & Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ofc-its-phyla&theme=dark&hide_border=true)](https://git.io/streak-stats)
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=ofc-its-phyla&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
