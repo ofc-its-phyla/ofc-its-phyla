@@ -29,57 +29,45 @@ I am a technology-driven problem solver passionate about software development, c
   <tr>
     <td width="50%" valign="top">
       <h3>⚡ Languages & Frameworks</h3>
-      <p align="left">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/master/public/icons/skills/javascript.svg" alt="JavaScript" width="40" height="40" style="margin-right: 5px;"/></a>
-        <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/master/public/icons/skills/typescript.svg" alt="TypeScript" width="40" height="40" style="margin-right: 5px;"/></a>
-        <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/master/public/icons/skills/python.svg" alt="Python" width="40" height="40" style="margin-right: 5px;"/></a>
-        <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" style="margin-right: 5px;"/></a>
-      </p>
-      <p align="left">
-        <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/master/public/icons/skills/react.svg" alt="React" width="40" height="40" style="margin-right: 5px;"/></a>
-        <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/master/public/icons/skills/nextjs.svg" alt="Next.js" width="40" height="40" style="margin-right: 5px;"/></a>
-        <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/master/public/icons/skills/nodejs.svg" alt="Node.js" width="40" height="40" style="margin-right: 5px;"/></a>
-        <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40" style="margin-right: 5px;"/></a>
-      </p>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+      <br />
+      <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
     </td>
     <td width="50%" valign="top">
       <h3>⚡ Backend & Databases</h3>
-      <p align="left">
-        <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/master/public/icons/skills/postgresql.svg" alt="PostgreSQL" width="40" height="40" style="margin-right: 5px;"/></a>
-        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/master/public/icons/skills/mysql.svg" alt="MySQL" width="40" height="40" style="margin-right: 5px;"/></a>
-        <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/master/public/icons/skills/mongodb.svg" alt="MongoDB" width="40" height="40" style="margin-right: 5px;"/></a>
-      </p>
-      <p align="left">
-        <a href="https://supabase.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="Supabase" width="40" height="40" style="margin-right: 5px;"/></a>
-        <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/master/public/icons/skills/firebase.svg" alt="Firebase" width="40" height="40" style="margin-right: 5px;"/></a>
-        <a href="https://jwt.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jwt/jwt-icon.svg" alt="JWT" width="40" height="40" style="margin-right: 5px;"/></a>
-      </p>
+      <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+      <br />
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+      <img src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens&logoColor=a370f7" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>⚡ Security & DevOps</h3>
-      <p align="left">
-        <a href="https://www.kali.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kalilinux/kalilinux-icon.svg" alt="Kali Linux" width="40" height="40" style="margin-right: 5px;"/></a>
-        <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" style="margin-right: 5px;"/></a>
-        <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40" style="margin-right: 5px;"/></a>
-      </p>
-      <p align="left">
-        <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/master/public/icons/skills/docker.svg" alt="Docker" width="40" height="40" style="margin-right: 5px;"/></a>
-        <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/master/public/icons/skills/git.svg" alt="Git" width="40" height="40" style="margin-right: 5px;"/></a>
-        <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub Actions" width="40" height="40" style="margin-right: 5px;"/></a>
-      </p>
+      <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+      <img src="https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white" />
+      <br />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
     </td>
     <td width="50%" valign="top">
-      <h3>⚡ UI & Productivity</h3>
-      <p align="left">
-        <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/master/public/icons/skills/tailwindcss.svg" alt="TailwindCSS" width="40" height="40" style="margin-right: 5px;"/></a>
-        <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/master/public/icons/skills/vscode.svg" alt="VS Code" width="40" height="40" style="margin-right: 5px;"/></a>
-      </p>
-      <p align="left">
-        <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jetbrains_intellij/jetbrains_intellij-icon.svg" alt="IntelliJ IDEA" width="40" height="40" style="margin-right: 5px;"/></a>
-        <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/postmanlabs/postman-app-pixels/master/assets/images/postman-logo.svg" alt="Postman" width="40" height="40" style="margin-right: 5px;"/></a>
-      </p>
+      <h3>⚡ UI & Productivity Tools</h3>
+      <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+      <br />
+      <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white" />
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
     </td>
   </tr>
 </table>
