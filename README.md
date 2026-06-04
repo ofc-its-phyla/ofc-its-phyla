@@ -1,12 +1,14 @@
 # Hi there! I'm Philemon Daniel 👋
 
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3ECF8E&width=500&lines=Full-Stack+Developer;Cybersecurity+Enthusiast;Tech+Creator;Late-Night+Debugger" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3ECF8E&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Cybersecurity+Enthusiast;Tech+Creator;Late-Night+Debugger" alt="Typing SVG" />
 </p>
 
-Building secure, creative, and impactful digital solutions with code, curiosity, and a focus on robust technical foundations.
+<p align="center">
+  Building secure, creative, and impactful digital solutions with code, curiosity, and strong technical foundations.
+</p>
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=ofc-its-phyla&label=Profile%20Views&color=3ECF8E&style=flat-square" alt="Profile Views" />
 </p>
 
@@ -20,7 +22,17 @@ I am a technology-driven problem solver passionate about software development, c
 - 🔐 Cybersecurity Enthusiast
 - 🎓 Student & Lifelong Learner
 - 🚀 Building impactful digital solutions
-- 🌱 Currently learning advanced software architecture and cloud technologies
+- 🌱 Currently learning Advanced Software Architecture & Cloud Technologies
+
+---
+
+## 🎯 Current Focus
+
+- Building secure web applications
+- Learning cloud technologies
+- Exploring cybersecurity automation
+- Creating impactful digital solutions
+- Contributing to open source
 
 ---
 
@@ -30,12 +42,11 @@ I am a technology-driven problem solver passionate about software development, c
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=a370f7)
 
 ### ⚡ Languages
 
@@ -46,32 +57,25 @@ I am a technology-driven problem solver passionate about software development, c
 
 ### ⚡ Frontend & UI
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### ⚡ Security, DevOps & Scripting
+### ⚡ Security, DevOps & Tools
 
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### ⚡ Tools & Productivity
-
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Project
 
 ### 🛡️ CyberSafe Ethiopia
 
@@ -80,7 +84,8 @@ A cybersecurity awareness and digital safety platform designed to help Ethiopian
 - Digital Security Education
 - Scam Awareness
 - Safe Browsing Practices
-- Cybersecurity Awareness Resources
+- Cybersecurity Resources
+- Community Awareness Campaigns
 
 ---
 
@@ -94,23 +99,35 @@ A cybersecurity awareness and digital safety platform designed to help Ethiopian
 
 ## 📊 GitHub Activity & Stats
 
- [![GitHub Streak](https://streak-stats.demolab.com/?user=ofc-its-phyla&theme=dark&hide_border=true)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ofc-its-phyla&show_icons=true&theme=github_dark&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ofc-its-phyla&theme=github-dark-blue&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ofc-its-phyla&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
 
 ---
 
 ## 📬 Let's Connect
 
-<a href="mailto:contact.philemon.daniel@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact_Me-ea4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<p align="center">
+  <a href="mailto:contact.philemon.daniel@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-ea4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
-<a href="https://linkedin.com/in/philemon-daniel">
-  <img src="https://img.shields.io/badge/LinkedIn-Philemon_Daniel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+  <a href="https://linkedin.com/in/philemon-daniel">
+    <img src="https://img.shields.io/badge/LinkedIn-Philemon_Daniel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
-<a href="https://t.me/PhilemonDanielCommunity">
-  <img src="https://img.shields.io/badge/Telegram-Community-0088CC?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
+  <a href="https://t.me/PhilemonDanielCommunity">
+    <img src="https://img.shields.io/badge/Telegram-Community-0088CC?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+</p>
 
 ---
 
+<p align="center">
+  <i>"Code with purpose. Build with impact. Learn without limits."</i>
+</p>
