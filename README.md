@@ -74,15 +74,6 @@ I am a technology-driven problem solver passionate about software development, c
 
 ---
 
-## 🚀 Featured Projects
-
-### 🛡️ CyberSafe Ethiopia
-A comprehensive cybersecurity awareness and digital safety platform engineered to help Ethiopian internet users shield themselves from evolving online threats.
-*   **Key Focus:** Interactive Digital Security Education, Real-time Scam Alerts, and Safe Browsing Implementations.
-*   **Impact:** Focused heavily on regional cybersecurity frameworks and contextual localized safety resources.
-
----
-
 ## 🏅 Professional Milestones
 
 - 📱 **Android Developer Fundamentals** (Google / Udacity)
