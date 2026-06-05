@@ -92,13 +92,8 @@ A comprehensive cybersecurity awareness and digital safety platform engineered t
 ---
 ## 📊 GitHub Activity & Stats
 
-<p align="left">
-  <img
-    src="https://github-readme-streak-stats.demolab.com?user=ofc-its-phyla&theme=dark&hide_border=true&background=0D1117&fire=3ECF8E&ring=3ECF8E&currStreakLabel=3ECF8E"
-    height="150"
-    alt="GitHub Streak"
-  />
-</p>
+![GitHub Streak](https://github-readme-streak-stats.demolab.com?user=ofc-its-phyla&theme=dark&hide_border=true&background=0D1117&fire=3ECF8E&ring=3ECF8E&currStreakLabel=3ECF8E)
+
 ---
 
 ## 📬 Let's Connect
