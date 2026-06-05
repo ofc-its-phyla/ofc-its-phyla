@@ -90,13 +90,15 @@ A comprehensive cybersecurity awareness and digital safety platform engineered t
 - 🥈 **2nd Place** — Lemikura ICT Science Fair
 
 ---
-
 ## 📊 GitHub Activity & Stats
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ofc-its-phyla&theme=dark&hide_border=true&background=0D1117&fire=3ECF8E&ring=3ECF8E&currStreakLabel=3ECF8E" height="150" alt="GitHub Streak" />
+  <img
+    src="https://github-readme-streak-stats.demolab.com?user=ofc-its-phyla&theme=dark&hide_border=true&background=0D1117&fire=3ECF8E&ring=3ECF8E&currStreakLabel=3ECF8E"
+    height="150"
+    alt="GitHub Streak"
+  />
 </p>
-
 ---
 
 ## 📬 Let's Connect
