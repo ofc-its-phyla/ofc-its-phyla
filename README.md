@@ -83,7 +83,7 @@ I am a technology-driven problem solver passionate about software development, c
 ---
 ## 📊 GitHub Activity & Stats
  
-[![GitHub Streak](https://streak-stats.demolab.com?user=ofc-its-phyla&theme=highcontrast&short_numbers=true)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=ofc-its-phyla&theme=highcontrast&short_numbers=true&v=1)
 
 ---
 
