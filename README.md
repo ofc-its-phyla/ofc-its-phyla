@@ -73,14 +73,6 @@ I am a technology-driven problem solver passionate about software development, c
 </table>
 
 ---
-
-## 🏅 Professional Milestones
-
-- 📱 **Android Developer Fundamentals** (Google / Udacity)
-- 🥇 **1st Place** — Regional Science Fair
-- 🥈 **2nd Place** — Lemikura ICT Science Fair
-
----
 ## 📊 GitHub Activity & Stats
  
 [![GitHub Streak](https://streak-stats.vercel.app?user=ofc-its-phyla&theme=highcontrast&short_numbers=true)](https://git.io/streak-stats)
