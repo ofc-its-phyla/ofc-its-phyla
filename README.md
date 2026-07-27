@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3ECF8E&width=500&lines=Full-Stack+Developer;Cybersecurity+Enthusiast;Tech+Creator;Late-Night+Debugger" alt="Typing SVG" />
 </p>
 
-> Building secure, creative, and impactful digital solutions with code, curiosity, and a focus on robust technical foundations.
+> Building secure, creative, and impactful digital solutions with code curiosity, and a focus on robust technical foundations.
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ofc-its-phyla&label=Profile%20Views&color=3ECF8E&style=flat-square" alt="Profile Views" />
