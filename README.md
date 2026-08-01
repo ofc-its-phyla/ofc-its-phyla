@@ -18,7 +18,7 @@ I am a technology-driven problem solver passionate about software development cy
 
 - 🛠️ **Full-Stack Web Developer** — Specializing in modern JavaScript frameworks and robust backend ecosystems.
 - 🔐 **Cybersecurity Enthusiast** — Passionate about digital safety, ethical hacking, and building secure apps.
-- 🎓 **Student & Lifelong Learner** — Currently mastering advanced software architecture and cloud tech.
+- 🎓 **Student & Lifelong Learner** — Currently mastering, advanced software architecture and cloud tech.
 - 🚀 **Community Focused** — Dedicated to launching impactful digital solutions within the local tech ecosystem.
 
 ---
