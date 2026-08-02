@@ -1,27 +1,10 @@
-👋 Hero
-
-💼 About Me
-
-🧠 Tech Stack
-
-💻 Programming Languages
-
-⚡ Development Environment
-
-📊 GitHub Analytics
-    ├── GitHub Stats
-    ├── Contribution Streak
-    ├── Activity Graph
-    ├── Top Languages
-
-📈 Coding Metrics
-
-🏅 GitHub Achievements
-
-🌍 Currently Learning
-
-📫 Contact
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-"Building software that matters."
+user_profile:
+  name: "Philemon Daniel"
+  title: "Full-Stack Software Engineer & Cybersecurity Enthusiast"
+  location: "Addis Ababa, Ethiopia"
+  summary: >
+    I enjoy building modern web applications that combine clean user experiences
+    with secure, scalable backend systems. My interests span software engineering,
+    cybersecurity, backend development, DevOps, cloud technologies, and open-source.
+  quote: >
+    "Building software that is secure, scalable, and designed to solve real-world problems."
