@@ -1,10 +1,10 @@
 # Hi, I'm Philemon Daniel 👋
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3ECF8E&width=650&lines=Full-Stack+Developer;Cybersecurity+Enthusiast;Building+Secure+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=3ECF8E&width=650&lines=Full-Stack+Developer;Cybersecurity+Enthusiast;Building+Secure+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
 
-> Building secure, scalable, and user-focused software while continuously learning modern technologies and best engineering practices.
+> **Building secure, scalable, and impactful software while continuously learning modern technologies and best engineering practices.**
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ofc-its-phyla&label=Profile+Views&color=3ECF8E&style=flat-square" />
@@ -18,83 +18,39 @@
 
 I'm **Philemon Daniel**, a full-stack developer and cybersecurity enthusiast based in **Addis Ababa, Ethiopia**.
 
-I'm passionate about designing and building modern web applications that are secure, scalable, and maintainable. I enjoy solving technical challenges, exploring new technologies, and continuously improving my development workflow.
+I enjoy building modern web applications that combine clean user experiences with secure, scalable backend systems. My interests include software engineering, cybersecurity, backend development, DevOps, cloud technologies, and open-source software.
 
-My interests span software engineering, backend development, cybersecurity, DevOps, and cloud technologies. I believe in writing clean code, following best practices, and building projects that solve real-world problems.
-
----
-
-# 🚀 What I'm Currently Working On
-
-- 🔐 Building secure full-stack web applications
-- 🌐 Modern React & Next.js development
-- ☁️ Learning cloud architecture and deployment
-- 🐳 Improving Docker & containerization skills
-- ⚡ Backend APIs with Spring Boot & Node.js
-- 📚 Deepening cybersecurity knowledge
-- 🤝 Contributing to open-source and personal projects
+I'm continuously improving my skills through personal projects, learning modern technologies, and solving real-world engineering challenges.
 
 ---
 
-# 🎯 Core Skills
+# 🚀 Featured Projects
 
-### Frontend
+## 🩸 LifeLink
+Emergency blood donation platform connecting donors, hospitals, and patients.
 
-- React
-- Next.js
-- TypeScript
-- JavaScript (ES6+)
-- HTML5
-- CSS3
-- Tailwind CSS
-
-### Backend
-
-- Spring Boot
-- Node.js
-- Express
-- REST APIs
-- JWT Authentication
-
-### Databases
-
-- PostgreSQL
-- MySQL
-- MongoDB
-- Firebase
-- Supabase
-
-### Programming Languages
-
-- Java
-- JavaScript
-- TypeScript
-- Python
-- SQL
-
-### DevOps & Tools
-
-- Git
-- GitHub
-- Docker
-- Linux
-- Bash
-- GitHub Actions
-- Postman
-- VS Code
-- IntelliJ IDEA
-
-### Security
-
-- Secure Authentication
-- API Security
-- OWASP Principles
-- Web Security
-- Ethical Hacking Fundamentals
+**Tech Stack**
+React • Spring Boot • PostgreSQL • Firebase
 
 ---
 
-# 🛠 Technology Stack
+## 🔐 CyberSafe Ethiopia
+Cybersecurity awareness platform focused on digital safety education and secure web technologies.
+
+**Tech Stack**
+React • Spring Boot • Python • Supabase
+
+---
+
+## 📚 Abisina Learner
+Modern educational platform featuring AI-powered learning tools, quizzes, and student productivity features.
+
+**Tech Stack**
+Next.js • Firebase • Tailwind CSS
+
+---
+
+# 🛠 Tech Stack
 
 <p align="center">
 
@@ -104,74 +60,41 @@ My interests span software engineering, backend development, cybersecurity, DevO
 
 ---
 
-# 📂 Featured Projects
-
-## 🩸 LifeLink
-
-A modern emergency blood donation platform designed to connect blood donors, hospitals, and patients through a fast and secure digital system.
-
-**Highlights**
-
-- Authentication
-- Admin Dashboard
-- Hospital Management
-- Blood Request System
-- Notifications
-- Modern UI
-
-**Tech**
-
-React • Spring Boot • PostgreSQL • Firebase
-
----
-
-## 🔐 CyberSafe Ethiopia
-
-A cybersecurity awareness platform focused on digital safety education, phishing awareness, secure browsing, and AI-powered assistance.
-
-**Highlights**
-
-- Learning Platform
-- Security Awareness
-- AI Features
-- Interactive Dashboard
-- Authentication
-
-**Tech**
-
-React • Spring Boot • Python • Supabase
-
----
-
-## 📚 Abisina Learner
-
-An educational platform providing study materials, quizzes, AI assistance, progress tracking, and productivity tools for students.
-
-**Tech**
-
-Next.js • Firebase • Tailwind CSS
-
----
-
-# 📊 GitHub Statistics
+# 📈 GitHub Analytics
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ofc-its-phyla&show_icons=true&theme=github_dark&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ofc-its-phyla&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ofc-its-phyla&layout=compact&theme=github_dark&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ofc-its-phyla&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=ofc-its-phyla&theme=github-dark-blue&hide_border=true"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=ofc-its-phyla&theme=github-dark-blue&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ofc-its-phyla&theme=github-dark&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📈 Development Activity
+# 🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ofc-its-phyla&theme=algolia&no-frame=true&row=1&column=6"/>
+
+</p>
+
+---
+
+# 📊 Development Summary
 
 <p align="center">
 
@@ -179,19 +102,27 @@ Next.js • Firebase • Tailwind CSS
 
 </p>
 
+<p align="center">
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ofc-its-phyla&theme=github_dark"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ofc-its-phyla&theme=github_dark"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ofc-its-phyla&theme=github_dark&utcOffset=3"/>
+
+</p>
+
 ---
 
-# 🌱 Currently Learning
+# 🌱 Current Focus
 
-- Advanced Spring Boot
-- Microservices
-- System Design
-- Docker
-- Kubernetes
-- CI/CD
-- Cloud Computing
-- Software Architecture
-- Secure Application Development
+- 🔐 Secure Software Engineering
+- ⚡ Backend Development with Spring Boot
+- ☁️ Cloud Computing
+- 🐳 Docker & Containerization
+- 🏗 Software Architecture
+- 🚀 DevOps & CI/CD
+- 🤝 Open Source Contributions
 
 ---
 
@@ -200,38 +131,31 @@ Next.js • Firebase • Tailwind CSS
 - Full-Stack Development
 - Backend Engineering
 - Cybersecurity
-- Cloud Computing
-- Open Source
+- Artificial Intelligence
 - DevOps
 - Software Architecture
-- Artificial Intelligence
+- Cloud Computing
 
 ---
 
-# 📜 Development Principles
+# 📜 Engineering Principles
 
-✔ Clean Code
-
-✔ Security First
-
-✔ Performance Matters
-
-✔ Continuous Learning
-
-✔ Problem Solving
-
-✔ User-Centered Design
-
-✔ Collaboration
+- ✔ Clean Code
+- ✔ Security First
+- ✔ Scalability
+- ✔ Performance
+- ✔ Continuous Learning
+- ✔ User-Centered Design
+- ✔ Collaboration
 
 ---
 
 # 📫 Connect With Me
 
-<p align="left">
+<p align="center">
 
 <a href="https://philemondaniel.web.app/">
-<img src="https://img.shields.io/badge/Portfolio-3ECF8E?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-3ECF8E?style=for-the-badge&logo=googlecloud&logoColor=white"/>
 </a>
 
 <a href="mailto:contact.philemon.daniel@gmail.com">
@@ -264,14 +188,14 @@ Next.js • Firebase • Tailwind CSS
 
 # 💬 Quote
 
-> *"Great software isn't just built—it is carefully designed, continuously improved, and secured from the start."*
+> *"Building software that is secure, scalable, and designed to solve real-world problems."*
 
 ---
 
 <p align="center">
 
-**Thank you for visiting my profile!**
+### Thanks for visiting my profile! ⭐
 
-If you find any of my projects interesting, consider ⭐ starring the repository or connecting with me.
+If you enjoy my work, feel free to explore my repositories, connect with me, or leave a ⭐ on projects you find useful.
 
 </p>
