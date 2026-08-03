@@ -14,7 +14,7 @@
 
 ## 💻 About Me
 
-I am a technology-driven problem solver passionate about software development cybersecurity, and modern digital technology. Based in **Addis Ababa, Ethiopia**, I enjoy building practical solutions exploring how systems work behind the scenes, and continuously improving my technical skills.
+I am a technology-driven problem solver passionate about software development cybersecurity  and modern digital technology. Based in **Addis Ababa, Ethiopia**, I enjoy building practical solutions exploring how systems work behind the scenes, and continuously improving my technical skills.
 
 - 🛠️ **Full-Stack Web Developer** — Specializing in modern JavaScript frameworks and robust backend ecosystems.
 - 🔐 **Cybersecurity Enthusiast** — Passionate about digital safety, ethical hacking, and building secure apps.
