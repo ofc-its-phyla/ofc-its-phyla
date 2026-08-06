@@ -106,4 +106,3 @@ I am a technology-driven problem solver passionate about software development cy
   </a>
 </p>
 
---- i  wont to chnage thise to something profesinol
