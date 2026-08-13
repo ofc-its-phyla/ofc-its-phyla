@@ -137,12 +137,6 @@ Alongside my day-to-day work, I'm currently deepening my knowledge of cloud arch
 ## 📊 GitHub Activity
 
 <div align="center">
-
-<img
-src="https://github-readme-stats-eight-theta.vercel.app/api?username=ofc-its-phyla&show_icons=true&theme=tokyonight&hide_border=true&bg_color=161B22&title_color=2C9CDB&icon_color=2C9CDB&text_color=e0e0e0&count_private=true"
-width="58%"
-/>
-
 <br/>
 
 <img
