@@ -1,92 +1,112 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:3ECF8E&height=220&section=header&text=Philemon%20Daniel&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Cybersecurity%20Enthusiast%20%7C%20AI-Assisted%20Builder&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:0F2027&height=200&section=header&text=Philemon%20Daniel&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=58&descSize=16&descColor=e0e0e0" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=3ECF8E&center=true&vCenter=true&width=650&lines=Building+secure%2C+scalable+web+applications;Full-Stack+%7C+JS+%2F+TS+%2F+Python+%2F+Java+%2F+Rust;Cybersecurity+%2B+Ethical+Hacking+Enthusiast;Shipping+faster+with+Claude+Code+%F0%9F%A4%96" />
+<table>
+<tr>
+<td align="left">🌐&nbsp;&nbsp;<a href="https://philemondaniel.web.app/">philemondaniel.web.app</a></td>
+<td align="right">✉️&nbsp;&nbsp;<a href="mailto:contact.philemon.daniel@gmail.com">contact.philemon.daniel@gmail.com</a></td>
+</tr>
+</table>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1000&color=2C9CDB&center=true&vCenter=true&width=650&lines=Building+secure%2C+scalable+web+applications;Full-Stack+%7C+JS+%2F+TS+%2F+Python+%2F+Java+%2F+Rust;Cybersecurity+%2B+Ethical+Hacking+Enthusiast;Shipping+faster+with+Claude+Code" />
 
 <br/>
 
-<a href="https://philemondaniel.web.app/"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=3ECF8E" /></a>
-<a href="mailto:contact.philemon.daniel@gmail.com"><img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
-<a href="https://www.linkedin.com/in/philemon-daniel-344067393"><img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
-<a href="https://t.me/PhilemonDanielCommunity"><img src="https://img.shields.io/badge/Telegram-0F172A?style=for-the-badge&logo=telegram&logoColor=29A9EA" /></a>
-<a href="https://x.com/ofc_its_phyla"><img src="https://img.shields.io/badge/X-0F172A?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="https://philemondaniel.web.app/"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+<a href="mailto:contact.philemon.daniel@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/philemon-daniel-344067393"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://t.me/PhilemonDanielCommunity"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" /></a>
+<a href="https://x.com/ofc_its_phyla"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" /></a>
 
-<img src="https://komarev.com/ghpvc/?username=ofc-its-phyla&label=Profile%20Views&color=3ECF8E&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/ofc-its-phyla?label=Followers&style=for-the-badge&color=3ECF8E&logo=github" />
+<img src="https://komarev.com/ghpvc/?username=ofc-its-phyla&label=Profile%20Views&color=2C9CDB&style=flat-square" />
+<img src="https://img.shields.io/github/followers/ofc-its-phyla?label=Followers&style=flat-square&color=2C9CDB&logo=github" />
 
 </div>
 
 <br/>
 
-## 🧭 About Me
+## About Me
 
-<img align="right" width="290" src="https://raw.githubusercontent.com/lets-i/lets-i/main/img/computer.gif" />
+I'm a technology-driven problem solver based in **Addis Ababa, Ethiopia**, focused on software development, system design, and cybersecurity. I build practical, secure solutions end-to-end — from interface to database — and use modern AI-assisted workflows as part of my daily development process.
 
-```yaml
-name: Philemon Daniel Mitiku
-location: Addis Ababa, Ethiopia
-role: Full-Stack Developer
-focus: [Web Development, Cybersecurity, System Design]
-currently_learning: [Cloud Architecture, Advanced Software Design]
-tools: [Claude Code, VS Code, IntelliJ]
-fun_fact: "I ship faster by pairing with AI — Claude Code is part of my daily stack"
-```
+I have a strong interest in cybersecurity and ethical hacking, and I try to build with a secure-by-default mindset rather than treating security as an afterthought. Alongside my day-to-day work, I'm currently deepening my knowledge of cloud architecture and advanced software design, and I enjoy contributing to and building for Ethiopia's growing tech ecosystem.
 
-- 🛠️ **Full-Stack Developer** — end-to-end product builder, UI to database
-- 🔐 **Cybersecurity Enthusiast** — ethical hacking, secure-by-default systems
-- 🤖 **AI-Native Workflow** — Claude Code powers my day-to-day shipping
-- 🎓 **Always Learning** — deepening cloud & architecture fundamentals
-- 🌍 **Community-Driven** — building for Ethiopia's growing tech ecosystem
+<br/>
 
-<br clear="right"/>
-
-## 🧰 Tech Stack
+## Tech Stack
 
 <table align="center">
 <tr>
 <td valign="top" width="50%">
 
-**Languages**
+**🔤 Languages**
 
-<img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=ffdd54" />
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white" />
-<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
-<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/Rust-DEA584?style=flat-square&logo=rust&logoColor=black" />
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
 
-**Frameworks & Runtime**
+<br/>
 
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+**⚙️ Frameworks & Runtime**
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+
+<br/>
+
+**🎨 Frontend & Styling**
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
 
 </td>
 <td valign="top" width="50%">
 
-**Databases & Backend**
+**🗄️ Databases & Backend**
 
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
 
-**Security & DevOps**
+<br/>
+
+**🔐 Security & DevOps**
 
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
 
-**AI-Assisted Workflow**
+<br/>
+
+**🛠️ Tools & Editors**
+
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+
+<br/>
+
+**🤖 AI-Assisted Workflow**
 
 <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" />
 
@@ -96,54 +116,34 @@ fun_fact: "I ship faster by pairing with AI — Claude Code is part of my daily 
 
 <br/>
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ofc-its-phyla&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ofc-its-phyla&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-</div>
 
-<div align="center">
-<img src="https://streak-stats.demolab.com/?user=ofc-its-phyla&theme=react&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
+<img width="60%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ofc-its-phyla&show_icons=true&theme=tokyonight&hide_border=true&bg_color=161B22&title_color=2C9CDB&icon_color=2C9CDB&text_color=e0e0e0&count_private=true" />
 
-<div align="center">
-<img src="https://github-readme-trophy.vercel.app/?username=ofc-its-phyla&theme=darkhub&no-frame=true&row=1&column=7&margin-w=10" />
-</div>
+<br/>
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ofc-its-phyla&theme=react-dark&hide_border=true&bg_color=0D1117" alt="Activity Graph" />
+<img width="90%" src="https://streak-stats.demolab.com/?user=ofc-its-phyla&theme=tokyonight&hide_border=true&background=161B22&ring=2C9CDB&fire=2C9CDB&currStreakLabel=2C9CDB" alt="GitHub Streak" />
+
 </div>
 
 <br/>
 
-## 🚀 Featured Repositories
-
-<div align="center">
-<a href="https://github.com/ofc-its-phyla/leyu-backend">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ofc-its-phyla&repo=leyu-backend&theme=react&hide_border=true&bg_color=0D1117" />
-</a>
-<a href="https://github.com/ofc-its-phyla/leyu-frontend">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ofc-its-phyla&repo=leyu-frontend&theme=react&hide_border=true&bg_color=0D1117" />
-</a>
-</div>
-
-<br/>
-
-## 📬 Let's Connect
+## Let's Connect
 
 <div align="center">
 
-<a href="https://philemondaniel.web.app/"><img src="https://img.shields.io/badge/Portfolio-3ECF8E?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-<a href="mailto:contact.philemon.daniel@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/philemon-daniel-344067393"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://t.me/PhilemonDanielCommunity"><img src="https://img.shields.io/badge/Telegram-088CC?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-<a href="https://x.com/ofc_its_phyla"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-<a href="https://www.instagram.com/ofc_its_phyla/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://web.facebook.com/ofc.its.phyla"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<a href="https://philemondaniel.web.app/"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+<a href="mailto:contact.philemon.daniel@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/philemon-daniel-344067393"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://t.me/PhilemonDanielCommunity"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" /></a>
+<a href="https://x.com/ofc_its_phyla"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" /></a>
+<a href="https://www.instagram.com/ofc_its_phyla/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+<a href="https://web.facebook.com/ofc.its.phyla"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" /></a>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3ECF8E,100:0F172A&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" />
 
-<p align="center"><i>Thanks for stopping by — always open to interesting collaborations 🚀</i></p>
+<p align="center"><i>Thanks for stopping by — always open to interesting collaborations</i></p>
