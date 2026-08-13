@@ -9,15 +9,15 @@
 </tr>
 </table>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1000&color=2C9CDB&center=true&vCenter=true&width=650&lines=Building+secure%2C+scalable+web+applications;Full-Stack+%7C+JS+%2F+TS+%2F+Python+%2F+Java+%2F+Rust;Cybersecurity+%2B+Ethical+Hacking+Enthusiast;Shipping+faster+with+Claude+Code" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1000&color=2C9CDB&center=true&vCenter=true&width=800&lines=Building+secure%2C+scalable+web+applications;Full-Stack+%7C+JS+%2F+TS+%2F+Python+%2F+Java+%2F+Rust;Cybersecurity+%2B+Ethical+Hacking+Enthusiast;Shipping+faster+with+Claude+Code" />
 
 <br/>
 
-<a href="https://philemondaniel.web.app/"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=flat-square&logo=googlechrome&logoColor=white" /></a>
-<a href="mailto:contact.philemon.daniel@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/philemon-daniel-344067393"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="https://t.me/PhilemonDanielCommunity"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" /></a>
-<a href="https://x.com/ofc_its_phyla"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" /></a>
+<a href="https://philemondaniel.web.app/"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="mailto:contact.philemon.daniel@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/philemon-daniel-344067393"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://t.me/PhilemonDanielCommunity"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+<a href="https://x.com/ofc_its_phyla"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 
 <img src="https://komarev.com/ghpvc/?username=ofc-its-phyla&label=Profile%20Views&color=2C9CDB&style=flat-square" />
 <img src="https://img.shields.io/github/followers/ofc-its-phyla?label=Followers&style=flat-square&color=2C9CDB&logo=github" />
@@ -120,11 +120,8 @@ I have a strong interest in cybersecurity and ethical hacking, and I try to buil
 
 <div align="center">
 
-<img width="60%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ofc-its-phyla&show_icons=true&theme=tokyonight&hide_border=true&bg_color=161B22&title_color=2C9CDB&icon_color=2C9CDB&text_color=e0e0e0&count_private=true" />
-
-<br/>
-
-<img width="90%" src="https://streak-stats.demolab.com/?user=ofc-its-phyla&theme=tokyonight&hide_border=true&background=161B22&ring=2C9CDB&fire=2C9CDB&currStreakLabel=2C9CDB" alt="GitHub Streak" />
+<img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ofc-its-phyla&show_icons=true&theme=tokyonight&hide_border=true&bg_color=161B22&title_color=2C9CDB&icon_color=2C9CDB&text_color=e0e0e0&count_private=true" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ofc-its-phyla&theme=tokyonight&hide_border=true&background=161B22&ring=2C9CDB&fire=2C9CDB&currStreakLabel=2C9CDB" alt="GitHub Streak" />
 
 </div>
 
@@ -134,13 +131,13 @@ I have a strong interest in cybersecurity and ethical hacking, and I try to buil
 
 <div align="center">
 
-<a href="https://philemondaniel.web.app/"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=flat-square&logo=googlechrome&logoColor=white" /></a>
-<a href="mailto:contact.philemon.daniel@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/philemon-daniel-344067393"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="https://t.me/PhilemonDanielCommunity"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" /></a>
-<a href="https://x.com/ofc_its_phyla"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" /></a>
-<a href="https://www.instagram.com/ofc_its_phyla/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
-<a href="https://web.facebook.com/ofc.its.phyla"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" /></a>
+<a href="https://philemondaniel.web.app/"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="mailto:contact.philemon.daniel@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/philemon-daniel-344067393"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://t.me/PhilemonDanielCommunity"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+<a href="https://x.com/ofc_its_phyla"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="https://www.instagram.com/ofc_its_phyla/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://web.facebook.com/ofc.its.phyla"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 
 </div>
 
