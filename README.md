@@ -32,11 +32,8 @@
 
 <img src="https://komarev.com/ghpvc/?username=ofc-its-phyla&label=Profile%20Views&color=2C9CDB&style=for-the-badge" />
 
-<img src="https://img.shields.io/github/followers/ofc-its-phyla?label=Followers&style=for-the-badge&color=2C9CDB&logo=github" />
 
-<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/ofc-its-phyla&label=Public%20Repos&query=$.public_repos&color=2C9CDB&style=for-the-badge&logo=github" />
 
-<img src="https://img.shields.io/github/stars/ofc-its-phyla?label=Total%20Stars&style=for-the-badge&color=2C9CDB&logo=github&affiliations=OWNER" />
 
 </div>
 
