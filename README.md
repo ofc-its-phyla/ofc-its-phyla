@@ -58,166 +58,173 @@ Alongside my day-to-day work, I'm currently deepening my knowledge of cloud arch
 
 <div align="center">
 
-<table border="0">
-<tr>
+<table
+  border="0"
+  cellpadding="8"
+  cellspacing="0"
+  style="border: none; border-collapse: collapse;"
+>
+<tr style="border: none;">
 
-<td width="33%" align="center">
+<td
+  width="33%"
+  valign="top"
+  align="center"
+  style="border: none;"
+>
 
 ### 💻 Languages
 
-<img width="42" src="https://skillicons.dev/icons?i=python" title="Python" alt="Python" />
-<img width="42" src="https://skillicons.dev/icons?i=java" title="Java" alt="Java" />
-<img width="42" src="https://skillicons.dev/icons?i=js" title="JavaScript" alt="JavaScript" />
-<img width="42" src="https://skillicons.dev/icons?i=ts" title="TypeScript" alt="TypeScript" />
-<img width="42" src="https://skillicons.dev/icons?i=rust" title="Rust" alt="Rust" />
-<img width="42" src="https://skillicons.dev/icons?i=c" title="C" alt="C" />
-<img width="42" src="https://skillicons.dev/icons?i=postgres" title="SQL / PostgreSQL" alt="SQL" />
-<img width="42" src="https://skillicons.dev/icons?i=bash" title="Bash" alt="Bash" />
+<img width="30" src="https://skillicons.dev/icons?i=python" title="Python" alt="Python" />
+<img width="30" src="https://skillicons.dev/icons?i=java" title="Java" alt="Java" />
+<img width="30" src="https://skillicons.dev/icons?i=js" title="JavaScript" alt="JavaScript" />
+<img width="30" src="https://skillicons.dev/icons?i=ts" title="TypeScript" alt="TypeScript" />
+<img width="30" src="https://skillicons.dev/icons?i=rust" title="Rust" alt="Rust" />
+<img width="30" src="https://skillicons.dev/icons?i=c" title="C" alt="C" />
+<img width="30" src="https://skillicons.dev/icons?i=postgres" title="SQL" alt="SQL" />
+<img width="30" src="https://skillicons.dev/icons?i=bash" title="Bash" alt="Bash" />
 
 </td>
 
-<td width="33%" align="center">
+<td
+  width="33%"
+  valign="top"
+  align="center"
+  style="border: none;"
+>
 
 ### ⚡ Frontend
 
-<img width="42" src="https://skillicons.dev/icons?i=react" title="React" alt="React" />
-<img width="42" src="https://skillicons.dev/icons?i=nextjs" title="Next.js" alt="Next.js" />
-<img width="42" src="https://skillicons.dev/icons?i=html" title="HTML5" alt="HTML5" />
-<img width="42" src="https://skillicons.dev/icons?i=css" title="CSS3" alt="CSS3" />
-<img width="42" src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" alt="Tailwind CSS" />
-<img width="42" src="https://skillicons.dev/icons?i=redux" title="Redux" alt="Redux" />
+<img width="30" src="https://skillicons.dev/icons?i=react" title="React" alt="React" />
+<img width="30" src="https://skillicons.dev/icons?i=nextjs" title="Next.js" alt="Next.js" />
+<img width="30" src="https://skillicons.dev/icons?i=html" title="HTML5" alt="HTML5" />
+<img width="30" src="https://skillicons.dev/icons?i=css" title="CSS3" alt="CSS3" />
+<img width="30" src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" alt="Tailwind CSS" />
+<img width="30" src="https://skillicons.dev/icons?i=redux" title="Redux" alt="Redux" />
 
 </td>
 
-<td width="33%" align="center">
+<td
+  width="33%"
+  valign="top"
+  align="center"
+  style="border: none;"
+>
 
 ### 📱 Mobile
 
-<img width="42" src="https://skillicons.dev/icons?i=flutter" title="Flutter" alt="Flutter" />
-<img width="42" src="https://skillicons.dev/icons?i=dart" title="Dart" alt="Dart" />
-<img width="42" src="https://skillicons.dev/icons?i=react" title="React Native" alt="React Native" />
+<img width="30" src="https://skillicons.dev/icons?i=flutter" title="Flutter" alt="Flutter" />
+<img width="30" src="https://skillicons.dev/icons?i=dart" title="Dart" alt="Dart" />
+<img width="30" src="https://skillicons.dev/icons?i=react" title="React Native" alt="React Native" />
 
 </td>
 
 </tr>
 
-<tr>
+<tr style="border: none;">
 
-<td width="33%" align="center">
+<td
+  width="33%"
+  valign="top"
+  align="center"
+  style="border: none;"
+>
 
 ### 🚀 Backend
 
-<img width="42" src="https://skillicons.dev/icons?i=spring" title="Spring Boot" alt="Spring Boot" />
-<img width="42" src="https://skillicons.dev/icons?i=nodejs" title="Node.js" alt="Node.js" />
-<img width="42" src="https://skillicons.dev/icons?i=express" title="Express.js" alt="Express.js" />
-<img width="42" src="https://skillicons.dev/icons?i=django" title="Django" alt="Django" />
-<img width="42" src="https://skillicons.dev/icons?i=fastapi" title="FastAPI" alt="FastAPI" />
+<img width="30" src="https://skillicons.dev/icons?i=spring" title="Spring Boot" alt="Spring Boot" />
+<img width="30" src="https://skillicons.dev/icons?i=nodejs" title="Node.js" alt="Node.js" />
+<img width="30" src="https://skillicons.dev/icons?i=express" title="Express.js" alt="Express.js" />
+<img width="30" src="https://skillicons.dev/icons?i=django" title="Django" alt="Django" />
+<img width="30" src="https://skillicons.dev/icons?i=fastapi" title="FastAPI" alt="FastAPI" />
 
 </td>
 
-<td width="33%" align="center">
+<td
+  width="33%"
+  valign="top"
+  align="center"
+  style="border: none;"
+>
 
 ### 🗄️ Databases
 
-<img width="42" src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" alt="PostgreSQL" />
-<img width="42" src="https://skillicons.dev/icons?i=mysql" title="MySQL" alt="MySQL" />
-<img width="42" src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" alt="MongoDB" />
-<img width="42" src="https://skillicons.dev/icons?i=redis" title="Redis" alt="Redis" />
-<img width="42" src="https://skillicons.dev/icons?i=supabase" title="Supabase" alt="Supabase" />
-<img width="42" src="https://skillicons.dev/icons?i=firebase" title="Firebase" alt="Firebase" />
+<img width="30" src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" alt="PostgreSQL" />
+<img width="30" src="https://skillicons.dev/icons?i=mysql" title="MySQL" alt="MySQL" />
+<img width="30" src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" alt="MongoDB" />
+<img width="30" src="https://skillicons.dev/icons?i=redis" title="Redis" alt="Redis" />
+<img width="30" src="https://skillicons.dev/icons?i=supabase" title="Supabase" alt="Supabase" />
+<img width="30" src="https://skillicons.dev/icons?i=firebase" title="Firebase" alt="Firebase" />
 
 </td>
 
-<td width="33%" align="center">
+<td
+  width="33%"
+  valign="top"
+  align="center"
+  style="border: none;"
+>
 
 ### 🔐 Security & DevOps
 
-<img width="42" src="https://skillicons.dev/icons?i=linux" title="Linux" alt="Linux" />
-<img width="42" src="https://skillicons.dev/icons?i=kali" title="Kali Linux" alt="Kali Linux" />
-<img width="42" src="https://skillicons.dev/icons?i=docker" title="Docker" alt="Docker" />
-<img width="42" src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" />
-<img width="42" src="https://skillicons.dev/icons?i=githubactions" title="GitHub Actions" alt="GitHub Actions" />
-<img width="42" src="https://skillicons.dev/icons?i=postman" title="Postman" alt="Postman" />
+<img width="30" src="https://skillicons.dev/icons?i=linux" title="Linux" alt="Linux" />
+<img width="30" src="https://skillicons.dev/icons?i=kali" title="Kali Linux" alt="Kali Linux" />
+<img width="30" src="https://skillicons.dev/icons?i=docker" title="Docker" alt="Docker" />
+<img width="30" src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" />
+<img width="30" src="https://skillicons.dev/icons?i=githubactions" title="GitHub Actions" alt="GitHub Actions" />
+<img width="30" src="https://skillicons.dev/icons?i=postman" title="Postman" alt="Postman" />
 
 </td>
 
 </tr>
 
-<tr>
+<tr style="border: none;">
 
-<td width="33%" align="center">
+<td
+  width="33%"
+  valign="top"
+  align="center"
+  style="border: none;"
+>
 
 ### 🎨 Tools & AI
 
-<img width="42" src="https://skillicons.dev/icons?i=vscode" title="Visual Studio Code" alt="Visual Studio Code" />
-<img width="42" src="https://skillicons.dev/icons?i=idea" title="IntelliJ IDEA" alt="IntelliJ IDEA" />
-<img width="42" src="https://skillicons.dev/icons?i=figma" title="Figma" alt="Figma" />
-<img width="42" src="https://skillicons.dev/icons?i=claude" title="Claude Code" alt="Claude Code" />
+<img width="30" src="https://skillicons.dev/icons?i=vscode" title="VS Code" alt="VS Code" />
+<img width="30" src="https://skillicons.dev/icons?i=idea" title="IntelliJ IDEA" alt="IntelliJ IDEA" />
+<img width="30" src="https://skillicons.dev/icons?i=figma" title="Figma" alt="Figma" />
+<img width="30" src="https://skillicons.dev/icons?i=claude" title="Claude Code" alt="Claude Code" />
+<img width="30" src="https://skillicons.dev/icons?i=github" title="GitHub" alt="GitHub" />
+<img width="30" src="https://skillicons.dev/icons?i=gitlab" title="GitLab" alt="GitLab" />
+<img width="30" src="https://skillicons.dev/icons?i=vercel" title="Vercel" alt="Vercel" />
+<img width="30" src="https://skillicons.dev/icons?i=render" title="Render" alt="Render" />
 
 </td>
 
-<td width="33%" align="center">
-
-### 🌐 Platforms
-
-<img width="42" src="https://skillicons.dev/icons?i=github" title="GitHub" alt="GitHub" />
-<img width="42" src="https://skillicons.dev/icons?i=gitlab" title="GitLab" alt="GitLab" />
-<img width="42" src="https://skillicons.dev/icons?i=vercel" title="Vercel" alt="Vercel" />
-<img width="42" src="https://skillicons.dev/icons?i=render" title="Render" alt="Render" />
-
-</td>
-
-<td width="33%" align="center">
+<td
+  width="33%"
+  valign="top"
+  align="center"
+  style="border: none;"
+>
 
 ### 🧰 More
 
-<img width="42" src="https://skillicons.dev/icons?i=php" title="PHP" alt="PHP" />
-<img width="42" src="https://skillicons.dev/icons?i=graphql" title="GraphQL" alt="GraphQL" />
-<img width="42" src="https://skillicons.dev/icons?i=rabbitmq" title="RabbitMQ" alt="RabbitMQ" />
+<img width="30" src="https://skillicons.dev/icons?i=php" title="PHP" alt="PHP" />
+<img width="30" src="https://skillicons.dev/icons?i=graphql" title="GraphQL" alt="GraphQL" />
+<img width="30" src="https://skillicons.dev/icons?i=rabbitmq" title="RabbitMQ" alt="RabbitMQ" />
 
+</td>
+
+<td
+  width="33%"
+  style="border: none;"
+>
 </td>
 
 </tr>
 </table>
 
 </div>
-
-<br/>
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
-<br/>
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-### 📈 GitHub Statistics
-
-<img
-  src="https://github-readme-stats-eight-theta.vercel.app/api?username=ofc-its-phyla&show_icons=true&theme=tokyonight&hide_border=true&bg_color=161B22&title_color=2C9CDB&icon_color=2C9CDB&text_color=e0e0e0&count_private=true"
-  width="65%"
-/>
-
-<br/><br/>
-
-### 🔥 Contribution Streak
-
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=ofc-its-phyla&theme=tokyonight&hide_border=true&background=161B22&ring=2C9CDB&fire=2C9CDB&currStreakLabel=2C9CDB&sideLabels=2C9CDB&dates=e0e0e0"
-  width="65%"
-/>
-
-</div>
-
-<br/>
 
 ## Let's Connect
 
@@ -257,11 +264,13 @@ Alongside my day-to-day work, I'm currently deepening my knowledge of cloud arch
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" />
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"
+/>
 
 <p>
 <i>Thanks for stopping by — always open to interesting collaborations.</i>
 </p>
 
 </div>
-
