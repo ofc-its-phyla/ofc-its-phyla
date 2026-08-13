@@ -123,6 +123,10 @@ I have a strong interest in cybersecurity and ethical hacking, and I try to buil
 <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ofc-its-phyla&show_icons=true&theme=tokyonight&hide_border=true&bg_color=161B22&title_color=2C9CDB&icon_color=2C9CDB&text_color=e0e0e0&count_private=true" />
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ofc-its-phyla&theme=tokyonight&hide_border=true&background=161B22&ring=2C9CDB&fire=2C9CDB&currStreakLabel=2C9CDB" alt="GitHub Streak" />
 
+<br/>
+
+<img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=ofc-its-phyla&theme=tokyo-night&hide_border=true&bg_color=161B22&color=2C9CDB&line=2C9CDB&point=ffffff&area=true&area_color=2C9CDB" alt="Activity Graph" />
+
 </div>
 
 <br/>
