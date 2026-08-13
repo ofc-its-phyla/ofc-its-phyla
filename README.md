@@ -54,162 +54,109 @@ Alongside my day-to-day work, I'm currently deepening my knowledge of cloud arch
 
 <br/>
 
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-<!-- ROW 1 -->
-<table border="0" cellpadding="0" cellspacing="0" style="border: none;">
-<tr>
-<td width="33%" align="center" valign="top" style="border: none;">
-
-### 💻 Languages
-
-<img width="34" src="https://skillicons.dev/icons?i=python" title="Python" />
-<img width="34" src="https://skillicons.dev/icons?i=java" title="Java" />
-<img width="34" src="https://skillicons.dev/icons?i=js" title="JavaScript" />
-<img width="34" src="https://skillicons.dev/icons?i=ts" title="TypeScript" />
-<img width="34" src="https://skillicons.dev/icons?i=rust" title="Rust" />
-<img width="34" src="https://skillicons.dev/icons?i=c" title="C" />
-<img width="34" src="https://skillicons.dev/icons?i=postgres" title="SQL" />
-<img width="34" src="https://skillicons.dev/icons?i=bash" title="Bash" />
-
-</td>
-
-<td width="33%" align="center" valign="top" style="border: none;">
-
-### ⚡ Frontend
-
-<img width="34" src="https://skillicons.dev/icons?i=react" title="React" />
-<img width="34" src="https://skillicons.dev/icons?i=nextjs" title="Next.js" />
-<img width="34" src="https://skillicons.dev/icons?i=html" title="HTML5" />
-<img width="34" src="https://skillicons.dev/icons?i=css" title="CSS3" />
-<img width="34" src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" />
-<img width="34" src="https://skillicons.dev/icons?i=redux" title="Redux" />
-
-</td>
-
-<td width="33%" align="center" valign="top" style="border: none;">
-
-### 📱 Mobile
-
-<img width="34" src="https://skillicons.dev/icons?i=flutter" title="Flutter" />
-<img width="34" src="https://skillicons.dev/icons?i=dart" title="Dart" />
-<img width="34" src="https://skillicons.dev/icons?i=react" title="React Native" />
-
-</td>
-</tr>
-</table>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Rust-DEA584?style=for-the-badge&logo=rust&logoColor=black" />
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 
 <br/>
 
-<!-- ROW 2 -->
-<table border="0" cellpadding="0" cellspacing="0" style="border: none;">
-<tr>
-
-<td width="33%" align="center" valign="top" style="border: none;">
-
-### 🚀 Backend
-
-<img width="34" src="https://skillicons.dev/icons?i=spring" title="Spring Boot" />
-<img width="34" src="https://skillicons.dev/icons?i=nodejs" title="Node.js" />
-<img width="34" src="https://skillicons.dev/icons?i=express" title="Express.js" />
-<img width="34" src="https://skillicons.dev/icons?i=django" title="Django" />
-<img width="34" src="https://skillicons.dev/icons?i=fastapi" title="FastAPI" />
-
-</td>
-
-<td width="33%" align="center" valign="top" style="border: none;">
-
-### 🗄️ Databases
-
-<img width="34" src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" />
-<img width="34" src="https://skillicons.dev/icons?i=mysql" title="MySQL" />
-<img width="34" src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" />
-<img width="34" src="https://skillicons.dev/icons?i=redis" title="Redis" />
-<img width="34" src="https://skillicons.dev/icons?i=supabase" title="Supabase" />
-<img width="34" src="https://skillicons.dev/icons?i=firebase" title="Firebase" />
-
-</td>
-
-<td width="33%" align="center" valign="top" style="border: none;">
-
-### 🔐 Security & DevOps
-
-<img width="34" src="https://skillicons.dev/icons?i=linux" title="Linux" />
-<img width="34" src="https://skillicons.dev/icons?i=kali" title="Kali Linux" />
-<img width="34" src="https://skillicons.dev/icons?i=docker" title="Docker" />
-<img width="34" src="https://skillicons.dev/icons?i=git" title="Git" />
-<img width="34" src="https://skillicons.dev/icons?i=githubactions" title="GitHub Actions" />
-<img width="34" src="https://skillicons.dev/icons?i=postman" title="Postman" />
-
-</td>
-</tr>
-</table>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
 
 <br/>
 
-<!-- ROW 3 -->
-<table border="0" cellpadding="0" cellspacing="0" style="border: none;">
-<tr>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+<img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 
-<td width="33%" align="center" valign="top" style="border: none;">
+<br/>
 
-### 🎨 Tools & AI
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 
-<img width="34" src="https://skillicons.dev/icons?i=vscode" title="VS Code" />
-<img width="34" src="https://skillicons.dev/icons?i=idea" title="IntelliJ IDEA" />
-<img width="34" src="https://skillicons.dev/icons?i=figma" title="Figma" />
-<img width="34" src="https://skillicons.dev/icons?i=claude" title="Claude Code" />
-<img width="34" src="https://skillicons.dev/icons?i=github" title="GitHub" />
-<img width="34" src="https://skillicons.dev/icons?i=gitlab" title="GitLab" />
-<img width="34" src="https://skillicons.dev/icons?i=vercel" title="Vercel" />
-<img width="34" src="https://skillicons.dev/icons?i=render" title="Render" />
+<br/>
 
-</td>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 
-<td width="33%" align="center" valign="top" style="border: none;">
+<br/>
 
-### 🧰 More
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 
-<img width="34" src="https://skillicons.dev/icons?i=php" title="PHP" />
-<img width="34" src="https://skillicons.dev/icons?i=graphql" title="GraphQL" />
-<img width="34" src="https://skillicons.dev/icons?i=rabbitmq" title="RabbitMQ" />
+<br/>
 
-</td>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
 
-<td width="33%" align="center" valign="top" style="border: none;">
+<br/>
 
-</td>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
 
-</tr>
-</table>
+<br/>
+
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
 
 </div>
 
-<br/>
+---
 
 ## 📊 GitHub Activity
 
 <div align="center">
 
 <img
-  src="https://github-readme-stats-eight-theta.vercel.app/api?username=ofc-its-phyla&show_icons=true&theme=tokyonight&hide_border=true&bg_color=161B22&title_color=2C9CDB&icon_color=2C9CDB&text_color=e0e0e0&count_private=true"
-  width="58%"
+src="https://github-readme-stats-eight-theta.vercel.app/api?username=ofc-its-phyla&show_icons=true&theme=tokyonight&hide_border=true&bg_color=161B22&title_color=2C9CDB&icon_color=2C9CDB&text_color=e0e0e0&count_private=true"
+width="58%"
 />
 
 <br/>
 
 <img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=ofc-its-phyla&theme=tokyonight&hide_border=true&background=161B22&ring=2C9CDB&fire=2C9CDB&currStreakLabel=2C9CDB&sideLabels=2C9CDB&dates=e0e0e0"
-  width="58%"
+src="https://github-readme-streak-stats.herokuapp.com/?user=ofc-its-phyla&theme=tokyonight&hide_border=true&background=161B22&ring=2C9CDB&fire=2C9CDB&currStreakLabel=2C9CDB&sideLabels=2C9CDB&dates=e0e0e0"
+width="58%"
 />
 
 </div>
 
 <br/>
 
-## Let's Connect
+---
+
+## 🤝 Let's Connect
 
 <div align="center">
 
