@@ -2,14 +2,9 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:0F2027&height=200&section=header&text=Philemon%20Daniel&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=58&descSize=16&descColor=e0e0e0" />
 
-<table>
-<tr>
-<td align="left">🌐&nbsp;&nbsp;<a href="https://philemondaniel.web.app/">philemondaniel.web.app</a></td>
-<td align="right">✉️&nbsp;&nbsp;<a href="mailto:contact.philemon.daniel@gmail.com">contact.philemon.daniel@gmail.com</a></td>
-</tr>
-</table>
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1000&color=2C9CDB&center=true&vCenter=true&width=800&lines=Building+secure%2C+scalable+web+applications;Full-Stack+%7C+JS+%2F+TS+%2F+Python+%2F+Java+%2F+Rust;Cybersecurity+%2B+Ethical+Hacking+Enthusiast;Shipping+faster+with+Claude+Code" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=26&pause=1000&color=2C9CDB&center=true&vCenter=true&width=900&lines=Building+secure%2C+scalable+web+applications;Full-Stack+%7C+JS+%2F+TS+%2F+Python+%2F+Java+%2F+Rust;Cybersecurity+%2B+Ethical+Hacking+Enthusiast;Shipping+faster+with+Claude+Code" />
 
 <br/>
 
@@ -19,8 +14,12 @@
 <a href="https://t.me/PhilemonDanielCommunity"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 <a href="https://x.com/ofc_its_phyla"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 
-<img src="https://komarev.com/ghpvc/?username=ofc-its-phyla&label=Profile%20Views&color=2C9CDB&style=flat-square" />
-<img src="https://img.shields.io/github/followers/ofc-its-phyla?label=Followers&style=flat-square&color=2C9CDB&logo=github" />
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=ofc-its-phyla&label=Profile%20Views&color=2C9CDB&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/ofc-its-phyla?label=Followers&style=for-the-badge&color=2C9CDB&logo=github" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/ofc-its-phyla&label=Public%20Repos&query=$.public_repos&color=2C9CDB&style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/github/stars/ofc-its-phyla?label=Total%20Stars&style=for-the-badge&color=2C9CDB&logo=github&affiliations=OWNER" />
 
 </div>
 
