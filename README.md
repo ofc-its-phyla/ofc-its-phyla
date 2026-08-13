@@ -54,116 +54,166 @@ Alongside my day-to-day work, I'm currently deepening my knowledge of cloud arch
 
 <br/>
 
-## Tech Stack
-
-<table align="center">
-<tr>
-
-<td valign="top" width="50%">
-
-### 🔤 Languages
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=ffdd54" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white" />
-<img src="https://img.shields.io/badge/Rust-DEA584?style=flat-square&logo=rust&logoColor=black" />
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-
-<br/>
-
-### ⚙️ Frameworks & Runtime
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-
-<br/>
-
-### 🎨 Frontend & Styling
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-
-</td>
-
-<td valign="top" width="50%">
-
-### 🗄️ Databases & Backend
-
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-
-<br/>
-
-### 🔐 Security & DevOps
-
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-
-<br/>
-
-### 🛠️ Tools & Editors
-
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-
-<br/>
-
-### 🤖 AI-Assisted Workflow
-
-<img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" />
-
-</td>
-
-</tr>
-</table>
-
-<br/>
-
-## GitHub Activity
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<table>
+<table border="0">
 <tr>
 
-<td width="50%" align="center">
+<td width="33%" align="center">
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ofc-its-phyla&show_icons=true&theme=tokyonight&hide_border=true&bg_color=161B22&title_color=2C9CDB&icon_color=2C9CDB&text_color=e0e0e0&count_private=true" />
+### 💻 Languages
+
+<img width="42" src="https://skillicons.dev/icons?i=python" title="Python" alt="Python" />
+<img width="42" src="https://skillicons.dev/icons?i=java" title="Java" alt="Java" />
+<img width="42" src="https://skillicons.dev/icons?i=js" title="JavaScript" alt="JavaScript" />
+<img width="42" src="https://skillicons.dev/icons?i=ts" title="TypeScript" alt="TypeScript" />
+<img width="42" src="https://skillicons.dev/icons?i=rust" title="Rust" alt="Rust" />
+<img width="42" src="https://skillicons.dev/icons?i=c" title="C" alt="C" />
+<img width="42" src="https://skillicons.dev/icons?i=postgres" title="SQL / PostgreSQL" alt="SQL" />
+<img width="42" src="https://skillicons.dev/icons?i=bash" title="Bash" alt="Bash" />
 
 </td>
 
-<td width="50%" align="center">
+<td width="33%" align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ofc-its-phyla&theme=tokyonight&hide_border=true&background=161B22&ring=2C9CDB&fire=2C9CDB&currStreakLabel=2C9CDB" />
+### ⚡ Frontend
+
+<img width="42" src="https://skillicons.dev/icons?i=react" title="React" alt="React" />
+<img width="42" src="https://skillicons.dev/icons?i=nextjs" title="Next.js" alt="Next.js" />
+<img width="42" src="https://skillicons.dev/icons?i=html" title="HTML5" alt="HTML5" />
+<img width="42" src="https://skillicons.dev/icons?i=css" title="CSS3" alt="CSS3" />
+<img width="42" src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" alt="Tailwind CSS" />
+<img width="42" src="https://skillicons.dev/icons?i=redux" title="Redux" alt="Redux" />
+
+</td>
+
+<td width="33%" align="center">
+
+### 📱 Mobile
+
+<img width="42" src="https://skillicons.dev/icons?i=flutter" title="Flutter" alt="Flutter" />
+<img width="42" src="https://skillicons.dev/icons?i=dart" title="Dart" alt="Dart" />
+<img width="42" src="https://skillicons.dev/icons?i=react" title="React Native" alt="React Native" />
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="33%" align="center">
+
+### 🚀 Backend
+
+<img width="42" src="https://skillicons.dev/icons?i=spring" title="Spring Boot" alt="Spring Boot" />
+<img width="42" src="https://skillicons.dev/icons?i=nodejs" title="Node.js" alt="Node.js" />
+<img width="42" src="https://skillicons.dev/icons?i=express" title="Express.js" alt="Express.js" />
+<img width="42" src="https://skillicons.dev/icons?i=django" title="Django" alt="Django" />
+<img width="42" src="https://skillicons.dev/icons?i=fastapi" title="FastAPI" alt="FastAPI" />
+
+</td>
+
+<td width="33%" align="center">
+
+### 🗄️ Databases
+
+<img width="42" src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" alt="PostgreSQL" />
+<img width="42" src="https://skillicons.dev/icons?i=mysql" title="MySQL" alt="MySQL" />
+<img width="42" src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" alt="MongoDB" />
+<img width="42" src="https://skillicons.dev/icons?i=redis" title="Redis" alt="Redis" />
+<img width="42" src="https://skillicons.dev/icons?i=supabase" title="Supabase" alt="Supabase" />
+<img width="42" src="https://skillicons.dev/icons?i=firebase" title="Firebase" alt="Firebase" />
+
+</td>
+
+<td width="33%" align="center">
+
+### 🔐 Security & DevOps
+
+<img width="42" src="https://skillicons.dev/icons?i=linux" title="Linux" alt="Linux" />
+<img width="42" src="https://skillicons.dev/icons?i=kali" title="Kali Linux" alt="Kali Linux" />
+<img width="42" src="https://skillicons.dev/icons?i=docker" title="Docker" alt="Docker" />
+<img width="42" src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" />
+<img width="42" src="https://skillicons.dev/icons?i=githubactions" title="GitHub Actions" alt="GitHub Actions" />
+<img width="42" src="https://skillicons.dev/icons?i=postman" title="Postman" alt="Postman" />
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="33%" align="center">
+
+### 🎨 Tools & AI
+
+<img width="42" src="https://skillicons.dev/icons?i=vscode" title="Visual Studio Code" alt="Visual Studio Code" />
+<img width="42" src="https://skillicons.dev/icons?i=idea" title="IntelliJ IDEA" alt="IntelliJ IDEA" />
+<img width="42" src="https://skillicons.dev/icons?i=figma" title="Figma" alt="Figma" />
+<img width="42" src="https://skillicons.dev/icons?i=claude" title="Claude Code" alt="Claude Code" />
+
+</td>
+
+<td width="33%" align="center">
+
+### 🌐 Platforms
+
+<img width="42" src="https://skillicons.dev/icons?i=github" title="GitHub" alt="GitHub" />
+<img width="42" src="https://skillicons.dev/icons?i=gitlab" title="GitLab" alt="GitLab" />
+<img width="42" src="https://skillicons.dev/icons?i=vercel" title="Vercel" alt="Vercel" />
+<img width="42" src="https://skillicons.dev/icons?i=render" title="Render" alt="Render" />
+
+</td>
+
+<td width="33%" align="center">
+
+### 🧰 More
+
+<img width="42" src="https://skillicons.dev/icons?i=php" title="PHP" alt="PHP" />
+<img width="42" src="https://skillicons.dev/icons?i=graphql" title="GraphQL" alt="GraphQL" />
+<img width="42" src="https://skillicons.dev/icons?i=rabbitmq" title="RabbitMQ" alt="RabbitMQ" />
 
 </td>
 
 </tr>
 </table>
 
+</div>
+
 <br/>
 
+</td>
 
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+### 📈 GitHub Statistics
+
+<img
+  src="https://github-readme-stats-eight-theta.vercel.app/api?username=ofc-its-phyla&show_icons=true&theme=tokyonight&hide_border=true&bg_color=161B22&title_color=2C9CDB&icon_color=2C9CDB&text_color=e0e0e0&count_private=true"
+  width="65%"
+/>
+
+<br/><br/>
+
+### 🔥 Contribution Streak
+
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=ofc-its-phyla&theme=tokyonight&hide_border=true&background=161B22&ring=2C9CDB&fire=2C9CDB&currStreakLabel=2C9CDB&sideLabels=2C9CDB&dates=e0e0e0"
+  width="65%"
+/>
 
 </div>
 
@@ -214,3 +264,4 @@ Alongside my day-to-day work, I'm currently deepening my knowledge of cloud arch
 </p>
 
 </div>
+
