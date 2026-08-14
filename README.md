@@ -32,9 +32,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=ofc-its-phyla&label=Profile%20Views&color=2C9CDB&style=for-the-badge" />
 
-
-
-
 </div>
 
 <br/>
@@ -115,20 +112,25 @@ Alongside my day-to-day work, I'm currently deepening my knowledge of cloud arch
 
 </div>
 
+<br/>
+
+---
 
 ## 📊 GitHub Activity
 
 <div align="center">
+
 <br/>
 
 <img
-src="https://github-readme-streak-stats.herokuapp.com/?user=ofc-its-phyla&theme=tokyonight&hide_border=true&background=161B22&ring=2C9CDB&fire=2C9CDB&currStreakLabel=2C9CDB&sideLabels=2C9CDB&dates=e0e0e0"
-width="58%"
+  src="https://github-readme-streak-stats-eight.vercel.app/?user=ofc-its-phyla&theme=tokyonight&hide_border=true&background=161B22&ring=2C9CDB&fire=2C9CDB&currStreakLabel=2C9CDB&sideLabels=2C9CDB&dates=e0e0e0"
+  width="58%"
+  alt="GitHub Streak"
 />
 
-</div>
+<br/><br/>
 
-<br/>
+</div>
 
 ---
 
@@ -170,7 +172,10 @@ width="58%"
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" />
+<img
+width="100%"
+src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"
+/>
 
 <p>
 <i>Thanks for stopping by — always open to interesting collaborations.</i>
