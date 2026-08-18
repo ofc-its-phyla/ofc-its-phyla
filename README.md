@@ -38,7 +38,7 @@
 
 ## About Me
 
-I'm a technology-driven problem solver based in **Addis Ababa, Ethiopia**, focused on software development, system design, and cybersecurity.
+I'm a technology-driven problem solver based in **Addis Ababa, Ethiopia**, focused on software development, system design and cybersecurity.
 
 I build practical, secure solutions end-to-end — from interface to database — and use modern AI-assisted workflows as part of my daily development process.
 
