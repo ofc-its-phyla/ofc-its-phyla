@@ -98,4 +98,3 @@ I'm a technology-driven problem solver based in **Addis Ababa, Ethiopia**, focus
 <p><i>Thanks for stopping by — always open to interesting collaborations.</i></p>
 
 </div>
-</content>
