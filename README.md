@@ -42,7 +42,7 @@ I'm a technology-driven problem solver based in **Addis Ababa, Ethiopian**, focu
 
 I build practical, secure solutions end-to-end — from interface to database — and use modern AI-assisted workflows as part of my daily development process.
 
-I have a strong interest in cybersecurity and ethical hacking, and I try to build with a secure-by-default mindset rather than treating security as an afterthought.
+I have a strong interest in cybersecurity and ethical hacking and I try to build with a secure-by-default mindset rather than treating security as an afterthought.
 
 Alongside my day-to-day work, I'm currently deepening my knowledge of cloud architecture and advanced software design, and I enjoy contributing to and building for Ethiopia's growing tech ecosystem.
 
