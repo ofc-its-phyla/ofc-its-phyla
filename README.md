@@ -40,7 +40,7 @@
 
 I'm a technology-driven problem solver based in **Addis Ababa, Ethiopian**, focused on software development, system design and cybersecurity.
 
-I build practical, secure solutions end-to-end — from interface to database — and use modern AI-assisted workflows as part of my daily development process.
+I build practical, secure solutions end-to-end  from interface to database — and use modern AI-assisted workflows as part of my daily development process.
 
 I have a strong interest in cybersecurity and ethical hacking and I try to build with a secure-by-default mindset rather than treating security as an afterthought.
 
